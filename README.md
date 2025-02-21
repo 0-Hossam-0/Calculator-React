@@ -18,4 +18,4 @@ This project is a simple, intuitive calculator built with React. It performs bas
 
 ## Screenshot
 
-![Calculator Screenshot](https://github.com/0-Hossam-0/Simple-Web-Programs/blob/main/Screrenshots/calculator.png)
+![Calculator Screenshot](https://github.com/0-Hossam-0/Calculator-React/blob/main/calculator.png)
