@@ -19,3 +19,21 @@ This project is a simple, intuitive calculator built with React. It performs bas
 ## Screenshot
 
 ![Calculator Screenshot](https://github.com/0-Hossam-0/Calculator-React/blob/main/calculator.png)
+
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```sh
+   git clone https://github.com/0-Hossam-0/Tic-Tac-Toe-React.git
+   ```
+2. **Install Packages:**
+   ```sh
+   npm install
+   ```
+3. **Run Project:**
+   ```sh
+   npm run build
+   npm start
+   ```
